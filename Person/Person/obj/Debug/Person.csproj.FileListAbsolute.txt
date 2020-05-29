@@ -1,0 +1,16 @@
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\bin\Debug\Person.exe.config
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\bin\Debug\Person.exe
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\bin\Debug\Person.pdb
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\MainWindow.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\WindowEmployer.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\App.g.cs
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person_MarkupCompile.cache
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person_MarkupCompile.lref
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\MainWindow.baml
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\WindowEmployer.baml
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person.g.resources
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person.Properties.Resources.resources
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person.csproj.GenerateResource.Cache
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person.exe
+c:\users\pko\documents\visual studio 2017\Projects\Person\Person\obj\Debug\Person.pdb
